@@ -64,10 +64,13 @@ Une application React permettant de suivre les cours des cryptomonnaies en temps
 ### **Liste des Cryptomonnaies**
 - Affichage en tableau avec les noms, prix actuels, et pourcentage de variation.
 - Tri et recherche disponibles.
-  
+  ![Home page](public/home.png)
+  ![Crypto List](public/list.png)
+
 
 ### **Graphiques**
 - Visualisation des tendances des prix avec des courbes.
 - Support des graphiques en ligne, barres, ou autres personnalisations.
+  ![Graph page](public/graph.png)
 
 ---
